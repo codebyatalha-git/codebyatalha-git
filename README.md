@@ -84,7 +84,6 @@ const talha = {
 
 </div>
 
-> The snake appears after the first run of the **Generate Snake** workflow (Actions tab → Run workflow).
 
 ---
 
