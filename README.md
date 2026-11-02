@@ -66,16 +66,11 @@ const talha = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=codebyatalha-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyatalha-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
+<img src="https://raw.githubusercontent.com/codebyatalha-git/codebyatalha-git/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="48%"/>
+<img src="https://raw.githubusercontent.com/codebyatalha-git/codebyatalha-git/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="48%"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=codebyatalha-git&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyatalha-git&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" width="95%"/>
+<img src="https://raw.githubusercontent.com/codebyatalha-git/codebyatalha-git/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top languages" width="48%"/>
+<img src="https://raw.githubusercontent.com/codebyatalha-git/codebyatalha-git/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="48%"/>
 
 </div>
 
